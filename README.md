@@ -46,7 +46,7 @@ And many more other features you will have to find out for yourself.
 ## Screenshots
 
 - **Main Menu**:
-The main menu serves as the central hub of the application, providing users with access to various features and functionalities. It typically includes options such as starting a new game, selecting game modes, accessing settings, and navigating to other sections of the application.
+The main menu serves as the central hub of the application, providing users with access to various features It typically includes options such as starting a new game, selecting game modes, accessing settings, and navigating to other sections of the application.
 ![image](https://github.com/AlexandruRoscaPOO/MineSweeper/assets/113398639/659443c3-eace-487a-a799-6b8a76c2f68e)
 - **Setting**:The settings menu allows users to customize their experience according to their preferences. It typically includes options to adjust sound settings, music volume, language preferences, and other configurable aspects of the application. Users can fine-tune these settings to enhance their overall experience and tailor it to their individual preferences.
 ![image](https://github.com/AlexandruRoscaPOO/MineSweeper/assets/113398639/555eb33c-3a7e-4a8d-a696-10be938ca17f)
