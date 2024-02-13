@@ -102,7 +102,7 @@ def restart_sound():
 
 def open_browser():
     restart_sound()
-    webbrowser.open_new("https://github.com/AlexandruRoscaPOO")
+    webbrowser.open_new("https://github.com/NovioAlexandruRosca")
 
 
 def music_player():
